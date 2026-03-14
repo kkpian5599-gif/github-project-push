@@ -1,45 +1,51 @@
 # GitHub项目推送记录
 
 ## 推送时间
-2026-03-14 21:00 GMT+8
+2026-03-14 21:00 GMT+8 (补推)
 
 ## 推送内容
 
-### 🏆 今日GitHub热门项目推荐（晚间版）
+### 🏆 今日GitHub热门项目推荐
 
-#### 1️⃣ moeru-ai/airi (今日+3,006 ⭐)
-**大白话**：虚拟老婆/老公程序！在电脑上运行AI角色，实时语音聊天，还能帮你玩Minecraft和Factorio游戏。像《虚拟主播》里的Neuro-sama。
+#### 1️⃣ aquasecurity/trivy (32,878 ⭐)
+**大白话解释**：这是一个"安全扫描器"！能帮你找出电脑里、容器里、云服务里的安全漏洞和配置错误。就像请了个24小时不休息的安全专家帮你检查系统。
 
-🔗 https://github.com/moeru-ai/airi
-
----
-
-#### 2️⃣ KeygraphHQ/shannon (今日+2,930 ⭐)
-**大白话**：AI黑客工具！全自动渗透测试网站和API，96%成功率，24小时不休息的安全专家。
-
-🔗 https://github.com/KeygraphHQ/shannon
+**官网**：https://github.com/aquasecurity/trivy
 
 ---
 
-#### 3️⃣ agentscope-ai/ReMe (今日+194 ⭐)
-**大白话**：AI记忆管理系统。之前AI聊完就忘，这个让AI能"记住"对话内容，下次接着聊。
+#### 2️⃣ KeygraphHQ/shannon (31,788 ⭐)
+**大白话解释**：这是一个"AI黑客"工具！全自动帮你渗透测试网站和API。96%的成功率，可以自动找出网站的安全漏洞。
 
-🔗 https://github.com/agentscope-ai/ReMe
+**官网**：https://github.com/KeygraphHQ/shannon
 
 ---
 
-#### 4️⃣ msitarzewski/agency-agents (今日+1,468 ⭐)
-**大白话**：AI公司工具包。前端开发、Reddit运营、创意写作等各司其职，组成虚拟团队。
+#### 3️⃣ moeru-ai/airi (27,319 ⭐)
+**大白话解释**：这是一个"虚拟老婆/老公"程序！让你可以在自己电脑上运行一个AI角色，能实时语音聊天，还能帮你玩Minecraft和Factorio游戏。
 
-🔗 https://github.com/msitarzewski/agency-agents
+**官网**：https://github.com/moeru-ai/airi
+
+---
+
+#### 4️⃣ microsoft/mcp-for-beginners (14,884 ⭐)
+**大白话解释**：微软出的教程！教你学会最新的AI模型上下文协议（MCP），用.NET、Java、Python等多种语言写例子。
+
+**官网**：https://github.com/microsoft/mcp-for-beginners
+
+---
+
+#### 5️⃣ agentscope-ai/ReMe (1,802 ⭐)
+**大白话解释**：这是给AI用的"记忆管理系统"。之前的AI聊完天就忘了现在的事情，这个项目让AI能够"记住"之前的对话内容。
+
+**官网**：https://github.com/agentscope-ai/ReMe
 
 ---
 
 ## 今日趋势总结
-- **AI Agent爆发**：大量AI代理/自动化工具上榜
-- **记忆管理兴起**：ReMe说明AI记忆是下一个热点
-- **虚拟角色流行**：airi这种虚拟伴侣项目热度很高
-- **网络安全受关注**：shannon这种AI渗透测试工具大火
+- **AI Agent爆发**：大量AI代理工具上榜
+- **安全工具热门**：渗透测试和漏洞扫描需求大
+- **记忆管理兴起**：ReMe说明AI记忆是热点
 
 ---
-*推送时间: 2026-03-14 21:00*
+*推送时间: 2026-03-14 21:00 (补推)*
