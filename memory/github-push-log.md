@@ -1,51 +1,51 @@
 # GitHub项目推送记录
 
 ## 推送时间
-2026-03-15 09:00 GMT+8
+2026-03-15 21:00 GMT+8
 
 ## 推送内容
 
 ### 🏆 今日GitHub热门项目推荐
 
-#### 1️⃣ TransformerOptimus/SuperAGI (5,795 ⭐ | 今日+1,818 ⭐)
-**大白话解释**：这是一个"AI代理工作室"！能让你同时运行多个AI助手帮你干活，每个都能自主思考和执行任务。比如让它帮你查资料、写报告、自动操作电脑。
+#### 1️⃣ Ruvnet/RuView (25,155 ⭐)
+**大白话解释**：这是"WiFi透视"技术！不需要摄像头，只用普通WiFi信号就能检测人的姿态、心跳、呼吸。就像雷达一样，通过WiFi信号反射"看"到人在做什么。
 
-**官网**：https://github.com/TransformerOptimus/SuperAGI
-
----
-
-#### 2️⃣ FlowiseAI/Flowise (7,422 ⭐ | 今日+305 ⭐)
-**大白话解释**：这是"AI聊天机器人搭建器"！不用写代码，像搭积木一样拖拽组件就能做出自己的ChatGPT。支持100+集成，想接啥数据源都可以。
-
-**官网**：https://github.com/FlowiseAI/Flowise
+**官网**：https://github.com/ruvnet/RuView
 
 ---
 
-#### 3️⃣ mlc-ai/mlc-llm (9,468 ⭐ | 今日+329 ⭐)
-**大白话解释**：这是"手机上的AI大脑"！让你的手机、平板、笔记本能跑大语言模型（类似ChatGPT），不需要联网，完全离线使用，保护隐私。
+#### 2️⃣ moeru-ai/airi (22,119 ⭐)
+**大白话解释**：这是"虚拟老婆/老公"程序！让你在自己电脑上运行一个AI角色，能实时语音聊天，还会玩Minecraft和Factorio游戏。相当于数字虚拟人。
 
-**官网**：https://github.com/mlc-ai/mlc-llm
-
----
-
-#### 4️⃣ fiatrete/OpenDAN-Personal-AI-OS (592 ⭐ | 今日+353 ⭐)
-**大白话解释**：这是"个人AI操作系统"！把所有AI工具整合在一起，有语音助手、写作助手、翻译助手等，一个软件全搞定。
-
-**官网**：https://github.com/fiatrete/OpenDAN-Personal-AI-OS
+**官网**：https://github.com/moeru-ai/airi
 
 ---
 
-#### 5️⃣ reactive-python/reactpy (3,102 ⭐ | 今日+554 ⭐)
-**大白话解释**：这是"Python版React"！用Python写网页前端，就像写React一样简单。前端开发者不需要学JavaScript也能写漂亮的网页。
+#### 3️⃣ K-Dense-AI/claude-scientific-skills (11,859 ⭐)
+**大白话解释**：这是给AI科学家用的"工具箱"！集成了研究、科学、工程、分析、写作等技能。让AI帮你做科研、写论文、跑实验。
 
-**官网**：https://github.com/reactive-python/reactpy
+**官网**：https://github.com/K-Dense-AI/claude-scientific-skills
+
+---
+
+#### 4️⃣ LMCache/LMCache (7,380 ⭐)
+**大白话解释**：这是AI的"记忆加速器"！让大语言模型（LLM）处理速度更快，省内存。就像给AI大脑加了 SSD 固态硬盘。
+
+**官网**：https://github.com/LMCache/LMCache
+
+---
+
+#### 5️⃣ alibaba/OpenSandbox (5,327 ⭐)
+**大白话解释**：这是阿里巴巴开源的"AI安全沙盒"！让AI在隔离环境里运行代码，防止AI发疯搞破坏。编程Agent、AI评估都靠它。
+
+**官网**：https://github.com/alibaba/OpenSandbox
 
 ---
 
 ## 今日趋势总结
-- **AI Agent爆发**：SuperAGI一天涨1800+星，说明自动化AI是今年大热点
-- **本地AI兴起**：mlc-llm让你在手机上跑AI，隐私和速度兼顾
-- **无代码平台**：Flowise让每个人都能做自己的AI聊天机器人
-- **Python全栈**：reactpy让Python也能写网页前端
+- **WiFi感知突破**：RuView用普通WiFi就能监测人体姿态和生命体征
+- **虚拟人爆发**：airi让每个人都能创造自己的AI伴侣
+- **AI科研工具**：claude-scientific-skills让AI帮你做研究
+- **AI安全**：阿里OpenSandbox保护AI不闯祸
 
 ---
