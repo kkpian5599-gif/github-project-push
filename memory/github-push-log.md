@@ -1,5 +1,20 @@
 # GitHub Trending 有趣项目推送
 
+**推送时间**: 2026-03-19 21:00 GMT+8
+
+---
+
+## 🔥 晚间热门项目（与早晨相同，热度持续）
+
+### shannon - AI渗透测试 ⭐ 31,788（今日+2,930）
+### airi - 虚拟角色AI伴侣 ⭐ 27,319（今日+3,006）
+### trivy - 容器安全扫描 ⭐ 32,878（今日+298）
+### MoneyPrinterV2 - 自动化网赚 ⭐ 14,679（今日+511）
+### agency-agents - 多AI协作团队 ⭐ 7,289（今日+1,468）
+### microsoft/mcp-for-beginners - MCP入门 ⭐ 14,884
+### inclusionAI/AReaL - 快速强化学习 ⭐ 4,068
+### CodebuffAI/codebuff - 终端代码生成 ⭐ 3,850
+
 **推送时间**: 2026-03-19 09:00 GMT+8
 
 ---
