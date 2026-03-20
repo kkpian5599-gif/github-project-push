@@ -51,9 +51,11 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 ### GitHub
 
 - **仓库**: github-project-push (kkpian5599-gif)
-- **SSH Key**: ~/.ssh/id_ed25519 (Ed25519)
+- **SSH Key**: ~/.ssh/id_ed25519 (Ed25519，已生成待注册)
 - **用途**: 定时推送GitHub trending项目
 - **配置日期**: 2026-03-12
+- **SSH公钥**: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICqrpPBSOsC6UsnspTat3xsg+AaAJSqmIgVNE+n1qwTw agent@openclaw`
+- **待办**: 用户需将此公钥添加到 GitHub → Settings → SSH and GPG keys
 
 ### 使用说明
 
