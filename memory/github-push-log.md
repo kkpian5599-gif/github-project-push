@@ -1,5 +1,23 @@
 # GitHub Trending 有趣项目推送
 
+**推送时间**: 2026-03-20 09:00 GMT+8
+
+---
+
+## 🔥 今日热门项目
+
+### KeygraphHQ/shannon - AI渗透测试员 ⭐ 31,788（今日+2,930）
+- 白话：AI自动当黑客，96%成功率打穿网站，XBOW基准测试王者
+- 原理：白盒代码分析 + 黑盒动态渗透，四阶段流水线
+- 技术：TypeScript + Temporal + Claude Sonnet 4 + Nmap/Subfinder
+- 协议：AGPL-3.0
+
+### moeru-ai/airi - 虚拟角色AI伴侣 ⭐ 27,319（今日+3,006）
+- 白话：开源"虚拟老婆"，能聊天、能玩Minecraft、能语音对话
+- 原理：LLM大脑 + Whisper语音识别 + ElevenLabs语音合成 + VRM虚拟形象
+- 技术：Vue + TypeScript + Rust/Tauri + DuckDB WASM
+- 协议：MIT
+
 **推送时间**: 2026-03-19 21:00 GMT+8
 
 ---
