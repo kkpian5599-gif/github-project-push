@@ -207,3 +207,18 @@
 
 ⚠️ GitHub push 失败：SSH Key 未注册 GitHub
 
+
+---
+
+**推送时间**: 2026-03-20 21:00 GMT+8（晚间版）
+
+## 🔥 今日热门项目
+
+### msitarzewski/agency-agents - 55个AI专家替你打工 ⭐ 3,400（今日+1,468）
+- 白话：55个各有性格的AI专家Agent，前端/后端/AI/DevOps/营销随叫随到，可直接给Claude Code用
+- 技术：Markdown定义 + Claude Code集成，MIT协议
+
+### agentscope-ai/ReMe - AI的记忆宫殿 ⭐ 1,400（今日+194）
+- 白话：让AI真正记住长对话，自动压缩、向量检索、跨会话记忆，pip安装即可用
+- 技术：Python + AgentScope + Chroma向量库，Apache 2.0
+
