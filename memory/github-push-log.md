@@ -188,3 +188,22 @@
 ### 3. Hindsight - 会学习的AI记忆 ⭐ 3,142
 ### 4. LiteRT - 边缘设备AI引擎 ⭐ 1,683
 ### 5. OpenRAG - 开源RAG方案 ⭐ 1,633
+
+**推送时间**: 2026-03-20 21:00 GMT+8
+
+---
+
+## 🔥 晚间热门项目
+
+### CodebuffAI/codebuff — 终端里直接用嘴写代码 ⭐ 3,850（今日+275）
+- 白话：Terminal 说话生成代码，不用开 IDE
+- 技术：TypeScript + Node.js
+- 协议：MIT
+
+### inclusionAI/AReaL — 让大模型自己学会推理 ⭐ 4,068（今日+173）
+- 白话：本地强化学习训练推理模型，比 o1/o3 便宜
+- 技术：Python + PyTorch + HuggingFace
+- 协议：Apache 2.0
+
+⚠️ GitHub push 失败：SSH Key 未注册 GitHub
+
