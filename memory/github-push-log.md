@@ -222,3 +222,19 @@
 - 白话：让AI真正记住长对话，自动压缩、向量检索、跨会话记忆，pip安装即可用
 - 技术：Python + AgentScope + Chroma向量库，Apache 2.0
 
+
+## 2026-03-20 上午版 | 06:56
+
+推送项目：
+1. **Shannon** (KeygraphHQ/shannon) - AI自动化渗透测试，96.15%成功率 ⭐31.8k
+2. **AIRI** (moeru-ai/airi) - 开源AI虚拟伴侣，支持语音+Minecraft ⭐27.3k
+
+状态：✅ 已推送
+
+## 2026-03-20 晚间版 | 21:56
+
+推送项目：
+1. **Trivy** (aquasecurity/trivy) - 全能容器安全扫描工具 ⭐32.9k
+2. **MCP for Beginners** (microsoft/mcp-for-beginners) - 微软官方MCP协议入门课程 ⭐14.9k
+
+状态：✅ 已推送
