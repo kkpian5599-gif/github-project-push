@@ -278,3 +278,34 @@
 - 原理：记忆分层管理（短期/长期/情景）+ 自动总结+向量检索
 - 技术：Python + 向量数据库
 - 亮点：让AI真正拥有持续记忆，对话越多越懂你
+
+---
+
+**推送时间**: 2026-03-21 09:00 GMT+8
+
+## 🔥 今日热门项目（去重后新项目）
+
+### block/goose - AI全能工程师 ⭐ 30,600（今日+491）
+- 大白话：比Claude Code更猛，能独立完成整个项目，24小时不下班的程序员
+- 原理：多LLM集成 + MCP服务器扩展 + Rust高性能执行环境
+- 技术：Rust + TypeScript
+- 协议：Apache-2.0
+- 亮点：GitHub Copilot终极进化版，本地运行
+
+### remotion-dev/remotion - 用React做视频 ⭐ 28,800（今日+1,618）
+- 大白话：写代码生成视频，GitHub年度回顾和Fireship都在用
+- 原理：React组件=视频帧，代码控制时间轴和数据驱动渲染
+- 技术：TypeScript + PHP
+- 协议：需商业许可
+- 亮点：程序员做视频神器，批量自动化
+
+### lyogavin/airllm - 4GB显卡跑70B大模型 ⭐ 9,900（今日+493）
+- 大白话：单卡4GB显存跑70B模型，4050都能吃下Llama3.1 405B
+- 原理：分层加载，逐层调度显存，无需量化
+- 技术：Python + Jupyter Notebook
+- 协议：Apache-2.0
+- 亮点：消费级显卡救星
+
+**今日去重池包含**：shannon, airi, trivy, MoneyPrinterV2, agency-agents, mcp-for-beginners, AReaL, codebuff, seomachine, ReMe, vLLM, LeRobot, Qwen-Code, OpenObserve, WiFi-DensePose, A2UI, InsForge, Hindsight, LiteRT, OpenRAG
+
+状态：✅ 已推送飞书
