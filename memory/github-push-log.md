@@ -309,3 +309,26 @@
 **今日去重池包含**：shannon, airi, trivy, MoneyPrinterV2, agency-agents, mcp-for-beginners, AReaL, codebuff, seomachine, ReMe, vLLM, LeRobot, Qwen-Code, OpenObserve, WiFi-DensePose, A2UI, InsForge, Hindsight, LiteRT, OpenRAG
 
 状态：✅ 已推送飞书
+
+---
+
+**推送时间**: 2026-03-22 09:00 GMT+8
+
+**推送项目：**
+
+### 1. Shannon (KeygraphHQ/shannon)
+- **语言**: TypeScript
+- **今日星**: +2,930 ⭐
+- **总星**: 31,788
+- **类型**: 网络安全 / AI渗透测试
+- **描述**: 全自动AI渗透测试工具，96.15% XBOW基准命中率，超越人类测试员。能分析代码找攻击面，并真实执行浏览器级漏洞攻击。
+- **链接**: https://github.com/KeygraphHQ/shannon
+
+### 2. AIRI (moeru-ai/airi)
+- **语言**: TypeScript
+- **今日星**: +3,006 ⭐
+- **总星**: 27,319
+- **类型**: AI伴侣 / 虚拟角色
+- **描述**: 自托管AI伴侣框架，把虚拟角色灵魂装进Docker，支持实时语音聊天、玩Minecraft和Factorio。类Neuro-sama开源复刻，数据完全自托管。
+- **链接**: https://github.com/moeru-ai/airi
+
